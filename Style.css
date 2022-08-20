@@ -1,0 +1,25 @@
+.hidden {
+    border: 2px solid black;
+    margin-top: 15px;
+    padding: 30px;
+}
+
+.section {
+    background-color: #f0f0e1;
+    padding: 20px;
+    border-style: dashed;
+}
+
+.form__pa {
+    margin-left: 4px;
+}
+
+label {
+    font-style: monospace;
+    background-color: #c1c1c1;
+    font-size: larger;
+}
+
+.class {
+    background-color: red;
+}
